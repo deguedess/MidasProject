@@ -58,6 +58,10 @@ public class SessionUtil {
         SessionUtil.idioma = idioma;
     }
 
+    public static String getNomeCompleto() {
+        return "atualiza a classe SEssion util";
+    }
+
 //    public static Pais getPais() {
 //        return pais;
 //    }
@@ -86,5 +90,4 @@ public class SessionUtil {
 //    public static void setConfiguracoes(Configuracoes configuracoes) {
 //        SessionUtil.configuracoes = configuracoes;
 //    }
-
 }
